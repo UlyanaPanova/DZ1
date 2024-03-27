@@ -132,8 +132,13 @@ Nginx является популярным выбором для хостинг
 
 приложений.
 
-4.  <img src="media/image1.png" style="width:6.12917in;height:3.03542in" /><img src="media/image2.png" style="width:6.14306in;height:3.03542in" /><img src="media/image3.png" style="width:6.12153in;height:3.10069in" />Сравнение
-    по показателям GitHub:
+4.  Сравнение по показателям GitHub:
+   ![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/cea65265-ccf8-494c-8c1b-28726b6cd9ec)
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/5f9f2e3c-3ce8-414c-a1a7-6e5a76c19090)
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/e77c80d1-373d-472c-931a-d50e6de2f3ed)
+
+
+
 
 <table>
 <colgroup>
@@ -174,34 +179,38 @@ Nginx является популярным выбором для хостинг
 
 5.  Анализ Google Trends
 
-<img src="media/image4.png" style="width:6.43472in;height:3.20139in" />По
-всему миру за год:
+По всему миру за год:
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/791a45d5-d0cf-42a7-a328-f4d3968214cc)
 
-<img src="media/image5.png" style="width:6.71528in;height:3.41667in" />
+
 По России за год:
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/1b592743-9de1-47bd-8799-a0884650a849)
 
-<img src="media/image6.png" style="width:6.93461in;height:3.10729in" />По
-всему миру за последние 5 лет:
+По всему миру за последние 5 лет:
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/3c4d4783-dca9-4f6e-8c20-54b5c475797a)
+
 
 По России за последние 5 лет:
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/83d95d79-4bf5-4b41-81b7-c8745a1c70c5)
 
-<img src="media/image7.png" style="width:6.89167in;height:3.35764in" />
 
 4.  Сравнительный анализ данных веб-сервисов
 
 Количество запросов по серверу:
 
-<img src="media/image8.png" style="width:5.3375in;height:3.19097in" />
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/2daa9fe4-06d9-45a9-91bd-7fa1f4f1e08c)
 
-<img src="media/image9.png" style="width:6.44583in;height:3.73333in" />Количество
-запросов:
+Количество запросов:
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/86eb376d-1290-4e1d-a77b-c72812d635b9)
+
 
 Максимальное использование памяти под нагрузкой:
 
-<img src="media/image10.png" style="width:5.90208in;height:3.29444in" />
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/4f1f7e11-a2e5-4ede-a9bb-70f3b7088506)
 
-<img src="media/image11.png" style="width:6.69028in;height:3.84167in" />Количество
-запросов в секунду по каждому серверу:
+Количество запросов в секунду по каждому серверу:
+![image](https://github.com/UlyanaPanova/DZ1/assets/164093259/453e65d4-ca1d-414f-8173-e200f92a5f52)
+
 
 Вывод:
 
